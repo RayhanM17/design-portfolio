@@ -29,7 +29,7 @@ Here’s an overview of the projects available in this repository:
 
 ### 3. Lakes Food Equipment Repairs
 
-- **Figma File:** [Lakes Food Equipment Repairs Figma Design](path/to/figma/file)
+- **Description:** A website designed for a client in the food equipment repair industry. This project focuses on delivering a professional and user-friendly site tailored to the client's business needs.
 - **Live Website:** [View Website](https://www.lakesfoodequipmentrepairs.com/index.html)
 
 ### 4. MePrep
