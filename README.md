@@ -1,6 +1,6 @@
-# Design Portfolio
+# Website Portfolio
 
-Welcome to my design portfolio! This repository showcases a range of my design projects, created with Figma and, where applicable, developed into live websites for real clients. Each project folder contains design files and links to live sites or detailed project documentation.
+Welcome to my website portfolio! This repository showcases a range of my website projects, created with Figma and, where applicable, developed into live websites for real clients. Each project folder contains design files and links to live sites or detailed project documentation.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ Welcome to my design portfolio! This repository showcases a range of my design p
 
 ## About
 
-This repository highlights my work as a designer, featuring a variety of projects from full-stack website designs to client-specific websites. My design approach combines creativity with functionality, and I’m excited to share these projects with you.
+This repository highlights my work as a website designer and developer, featuring a variety of projects from full-stack website designs to client-specific websites. My design approach combines creativity with functionality, and I’m excited to share these projects with you.
 
 ## Project List
 
@@ -19,12 +19,12 @@ Here’s an overview of the projects available in this repository:
 
 ### 1. SaiteMap
 
-- **Description:** A full-stack website design currently under development. This project includes comprehensive UI/UX design and interactive elements aimed at creating a seamless user experience.
+- **Description:** A full-stack website design currently under development. This project includes comprehensive UI/UX design and interactive elements aimed at creating a seamless user experience. Built with NextJS.
 - **Live Website:** [Under Development](https://www.saitemap.com/)
 
 ### 2. Financially Fresh
 
-- **Description:** A blog template featuring a CMS integration and 3D animations. This project emphasizes engaging user experiences through dynamic visuals and interactive elements.
+- **Description:** A blog template featuring a CMS integration and 3D animations. This project emphasizes engaging user experiences through dynamic visuals and interactive elements. Built with NextJS, ThreeJS, and Strapi CMS.
 - **Video Demo:** [Vinmeo Link](https://vimeo.com/865302596)
 
 ### 3. Lakes Food Equipment Repairs
