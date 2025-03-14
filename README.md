@@ -45,7 +45,7 @@ Here’s an overview of the projects available in this repository:
 ### 6. NASA SPARX App Development
 
 - **Description:** Developed an interactive game interface for a lunar rover simulation using GoDot, focusing on intuitive navigation and real-time visualization for mission control. Applied user-centered design principles to create a seamless and engaging user experience. Recieved awards for Best Overall App, Best Visualization, and Best User Interface.
-- **Live Video:** [View Website](https://youtu.be/uSdJ1Be-Xxw?si=c5Cx767i5SMOymLX)
+- **Live Video:** [Youtube Link](https://youtu.be/uSdJ1Be-Xxw?si=c5Cx767i5SMOymLX)
 
 ### 7. Solafide Surprises
 
