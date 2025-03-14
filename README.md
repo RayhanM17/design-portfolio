@@ -42,7 +42,12 @@ Here’s an overview of the projects available in this repository:
 - **Description:** A website design for a client in the religious sector. This project aims to create a welcoming and accessible online presence for the client.
 - **Live Website:** [View Website](http://www.salaevangelicamiami.com/index.html)
 
-### 6. Solafide Surprises
+### 6. NASA SPARX App Development
+
+- **Description:** Developed an interactive game interface for a lunar rover simulation using GoDot, focusing on intuitive navigation and real-time visualization for mission control. Applied user-centered design principles to create a seamless and engaging user experience. Recieved awards for Best Overall App, Best Visualization, and Best User Interface.
+- **Live Video:** [View Website](https://youtu.be/uSdJ1Be-Xxw?si=c5Cx767i5SMOymLX)
+
+### 7. Solafide Surprises
 
 - **Description:** A client website design for a company specializing in unique surprises and gifts. The design highlights vibrant visuals and an engaging user experience.
 - **Live Website:** [View Website](https://rayhanm17.github.io/Sola-FideSurprises/index.html)
@@ -64,6 +69,6 @@ Each project folder contains:
 For inquiries or to discuss potential opportunities, please contact me:
 
 - **Email:** [marrero.rayhan@gmail.com](mailto:marrero.rayhan@gmail.com)
-- **LinkedIn:** [Rayhan Marrero](https://www.linkedin.com/in/rayhan-m-808123211/)
+- **LinkedIn:** [Rayhan Marrero](https://www.linkedin.com/in/rayhanjmarrero/)
 
 Thank you for visiting my portfolio. I look forward to connecting with you!
