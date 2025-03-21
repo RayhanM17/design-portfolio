@@ -68,7 +68,6 @@ Each project folder contains:
 
 For inquiries or to discuss potential opportunities, please contact me:
 
-- **Email:** [marrero.rayhan@gmail.com](mailto:marrero.rayhan@gmail.com)
 - **LinkedIn:** [Rayhan Marrero](https://www.linkedin.com/in/rayhanjmarrero/)
 
 Thank you for visiting my portfolio. I look forward to connecting with you!
